@@ -81,6 +81,8 @@ public/
 
 ---
 
-👉 **Entrega final:** Link do repositório no GitHub com a aplicação funcionando.
+## 👉 Entrega final
+
+* Link do repositório no GitHub com a aplicação funcionando.
 
 ---
